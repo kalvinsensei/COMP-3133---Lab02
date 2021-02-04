@@ -1,0 +1,18 @@
+{
+  "name": "lab2_mocha_test",
+  "version": "1.0.0",
+  "description": "full stack lab exercice 2",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kalvin Balasingam 101128371",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
